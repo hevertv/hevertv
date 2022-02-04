@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript,
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: love cook
 
