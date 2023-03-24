@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning HTML, CSS and JavaScript,
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: love cook
+- 🔭 I’m currently working as Outsystems Developer Jr.
+- 🌱 I’m currently learning HTML, CSS and JavaScript, Python, C# and others
+- 😄 Pronouns: he/his.
+- ⚡ Fun fact: love cook.
 
 <div align="center">
   <a href="https://github.com/hevertv">
